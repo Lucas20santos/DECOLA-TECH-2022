@@ -1,0 +1,15 @@
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/obj/Debug/net6.0/primeiro.csproj.AssemblyReference.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/obj/Debug/net6.0/primeiro.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/obj/Debug/net6.0/primeiro.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/obj/Debug/net6.0/primeiro.AssemblyInfo.cs
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/obj/Debug/net6.0/primeiro.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/bin/Debug/net6.0/primeiro
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/bin/Debug/net6.0/primeiro.deps.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/bin/Debug/net6.0/primeiro.runtimeconfig.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/bin/Debug/net6.0/primeiro.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/bin/Debug/net6.0/ref/primeiro.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/bin/Debug/net6.0/primeiro.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/obj/Debug/net6.0/primeiro.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/obj/Debug/net6.0/ref/primeiro.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/obj/Debug/net6.0/primeiro.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/primeiro/obj/Debug/net6.0/primeiro.genruntimeconfig.cache
