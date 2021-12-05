@@ -1,0 +1,15 @@
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/bin/Debug/net6.0/ExemploPOO
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/bin/Debug/net6.0/ExemploPOO.deps.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/bin/Debug/net6.0/ExemploPOO.runtimeconfig.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/bin/Debug/net6.0/ExemploPOO.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/bin/Debug/net6.0/ref/ExemploPOO.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/bin/Debug/net6.0/ExemploPOO.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/obj/Debug/net6.0/ExemploPOO.csproj.AssemblyReference.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/obj/Debug/net6.0/ExemploPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/obj/Debug/net6.0/ExemploPOO.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/obj/Debug/net6.0/ExemploPOO.AssemblyInfo.cs
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/obj/Debug/net6.0/ExemploPOO.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/obj/Debug/net6.0/ExemploPOO.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/obj/Debug/net6.0/ref/ExemploPOO.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/obj/Debug/net6.0/ExemploPOO.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/aula03/ExemploPOO/obj/Debug/net6.0/ExemploPOO.genruntimeconfig.cache
