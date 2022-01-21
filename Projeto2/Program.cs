@@ -7,9 +7,12 @@ namespace Projeto2
 
         static void Main(string[] args)
         {
-            Console.Clear();
-            Pessoas p1 = new Pessoas("Lucas", "Santos");
-            p1.Apresentar();   
+            // Console.Clear();
+            // Pessoas p1 = new Pessoas("Lucas", "Santos");
+            // p1.Apresentar();
+
+            Log log = new Log();
+             
         }
     }
 }
