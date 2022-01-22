@@ -1,0 +1,15 @@
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/bin/Debug/net6.0/projeto3
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/bin/Debug/net6.0/projeto3.deps.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/bin/Debug/net6.0/projeto3.runtimeconfig.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/bin/Debug/net6.0/projeto3.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/bin/Debug/net6.0/ref/projeto3.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/bin/Debug/net6.0/projeto3.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/obj/Debug/net6.0/projeto3.csproj.AssemblyReference.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/obj/Debug/net6.0/projeto3.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/obj/Debug/net6.0/projeto3.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/obj/Debug/net6.0/projeto3.AssemblyInfo.cs
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/obj/Debug/net6.0/projeto3.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/obj/Debug/net6.0/projeto3.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/obj/Debug/net6.0/ref/projeto3.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/obj/Debug/net6.0/projeto3.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/projeto3/obj/Debug/net6.0/projeto3.genruntimeconfig.cache

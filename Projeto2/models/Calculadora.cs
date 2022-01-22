@@ -2,9 +2,21 @@ namespace Projeto2.models
 {
     public class Calculadora
     {
+        public delegate void DelegateCalculadora();
+
+        public static event DelegateCalculadora EventoCalculadora;
+
         public static void Somar(int x, int y)
         {
-            System.Console.WriteLine($"Adição -> {x} + {y} = {x + y}");
+            if(EventoCalculadora != null)
+            {
+                System.Console.WriteLine($"Adição -> {x} + {y} = {x + y}");
+                EventoCalculadora();
+            }
+            else
+            {
+                System.Console.WriteLine("Nenhum Inscrito");
+            }
         }
 
         public static void Subtrair(int x, int y)
