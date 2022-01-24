@@ -32,31 +32,43 @@ namespace colecao_genericas
 
             // Filas
 
-            Queue<string> fila = new Queue<string>();
+            // Queue<string> fila = new Queue<string>();
 
-            // Adicionando elementos na fila
+            // // Adicionando elementos na fila
 
-            fila.Enqueue("Lucas");
-            fila.Enqueue("Fernando");
-            fila.Enqueue("Maria");
+            // fila.Enqueue("Lucas");
+            // fila.Enqueue("Fernando");
+            // fila.Enqueue("Maria");
 
-            while (fila.Count > 0)
+            // while (fila.Count > 0)
+            // {
+            //     System.Console.WriteLine($"Vez de {fila.Peek()} não remove da fila");
+            //     System.Console.WriteLine($"Tirando da fila {fila.Dequeue()}");
+            // }
+
+            // var pilha = new Stack<string>();
+
+            // pilha.Push("Livro 1");
+            // pilha.Push("Livro 2");
+            // pilha.Push("Livro 3");
+
+            // while(pilha.Count > 0)
+            // {
+            //     System.Console.WriteLine($"Próximo livro: {pilha.Peek}");
+            // }
+
+            // Dicionários
+            Dictionary<string, string> estados = new Dictionary<string, string>();
+
+            estados.Add("PE", "Pernambuco");
+            estados.Add("BA", "Bahia");
+            estados.Add("CE", "Ceára");
+            estados.Add("AL", "Alagoas");
+
+            foreach (KeyValuePair<string, string> item in estados)
             {
-                System.Console.WriteLine($"Vez de {fila.Peek()} não remove da fila");
-                System.Console.WriteLine($"Tirando da fila {fila.Dequeue()}");
+                System.Console.WriteLine($"Chave: {item.Key}, valor: {item.Value}");                
             }
-
-            var pilha = new Stack<string>();
-
-            pilha.Push("Livro 1");
-            pilha.Push("Livro 2");
-            pilha.Push("Livro 3");
-
-            while(pilha.Count > 0)
-            {
-                System.Console.WriteLine($"Próximo livro: {pilha.Peek}");
-            }
-
 
         }
     }
