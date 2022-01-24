@@ -1,0 +1,15 @@
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/bin/Debug/net6.0/colecao_genericas
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/bin/Debug/net6.0/colecao_genericas.deps.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/bin/Debug/net6.0/colecao_genericas.runtimeconfig.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/bin/Debug/net6.0/colecao_genericas.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/bin/Debug/net6.0/ref/colecao_genericas.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/bin/Debug/net6.0/colecao_genericas.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/obj/Debug/net6.0/colecao_genericas.csproj.AssemblyReference.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/obj/Debug/net6.0/colecao_genericas.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/obj/Debug/net6.0/colecao_genericas.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/obj/Debug/net6.0/colecao_genericas.AssemblyInfo.cs
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/obj/Debug/net6.0/colecao_genericas.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/obj/Debug/net6.0/colecao_genericas.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/obj/Debug/net6.0/ref/colecao_genericas.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/obj/Debug/net6.0/colecao_genericas.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao_genericos/colecao_genericas/obj/Debug/net6.0/colecao_genericas.genruntimeconfig.cache
