@@ -22,3 +22,15 @@ int[,] array = new int[4,2];
 2 = numero de ccoluna
 
 Acessar umm valor:: array[1, 1]
+
+## Manipulando Arrays
+
+### Ordenando Arrays
+
+Para ordenar umm array, existem diversos algoritmos de ordenação,
+diferentes técnicas e casos a serem consideradas.
+
+## Classe Array
+
+A classe Array é uma cclasse do C# que nos oferece diversos
+métodos que nos auxiliamm a trabalhar com array.

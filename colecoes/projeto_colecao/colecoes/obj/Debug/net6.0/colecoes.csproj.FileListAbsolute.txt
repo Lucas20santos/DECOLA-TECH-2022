@@ -1,0 +1,15 @@
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/bin/Debug/net6.0/colecoes
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/bin/Debug/net6.0/colecoes.deps.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/bin/Debug/net6.0/colecoes.runtimeconfig.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/bin/Debug/net6.0/colecoes.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/bin/Debug/net6.0/ref/colecoes.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/bin/Debug/net6.0/colecoes.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/obj/Debug/net6.0/colecoes.csproj.AssemblyReference.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/obj/Debug/net6.0/colecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/obj/Debug/net6.0/colecoes.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/obj/Debug/net6.0/colecoes.AssemblyInfo.cs
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/obj/Debug/net6.0/colecoes.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/obj/Debug/net6.0/colecoes.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/obj/Debug/net6.0/ref/colecoes.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/obj/Debug/net6.0/colecoes.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/colecoes/projeto_colecao/colecoes/obj/Debug/net6.0/colecoes.genruntimeconfig.cache
