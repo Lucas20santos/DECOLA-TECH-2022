@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using System.Linq;
 namespace colecao_genericas
 {
     class Program
@@ -9,26 +9,26 @@ namespace colecao_genericas
         {
             // Listas
 
-            List<string> estados = new List<string>();
-            estados.Add("PE");
-            estados.Add("PI");
-            estados.Add("BA");
-            estados.Add("MA");
-            estados.Add("AL");
+            // List<string> estados = new List<string>();
+            // estados.Add("PE");
+            // estados.Add("PI");
+            // estados.Add("BA");
+            // estados.Add("MA");
+            // estados.Add("AL");
 
-            Console.WriteLine($"Números de elementos: {estados.Count}");
+            // Console.WriteLine($"Números de elementos: {estados.Count}");
 
-            // apresentados os valores da lista
+            // // apresentados os valores da lista
 
-            foreach (var item in estados)
-            {
-                System.Console.WriteLine(item);
-            }
+            // foreach (var item in estados)
+            // {
+            //     System.Console.WriteLine(item);
+            // }
 
-            for(int i = 0; i < estados.Count; i++)
-            {
-                System.Console.WriteLine($"indice - {i} valor - {estados[i]}");
-            }
+            // for(int i = 0; i < estados.Count; i++)
+            // {
+            //     System.Console.WriteLine($"indice - {i} valor - {estados[i]}");
+            // }
 
             // Filas
 
@@ -58,18 +58,32 @@ namespace colecao_genericas
             // }
 
             // Dicionários
-            Dictionary<string, string> estados = new Dictionary<string, string>();
+            // Dictionary<string, string> estados = new Dictionary<string, string>();
 
-            estados.Add("PE", "Pernambuco");
-            estados.Add("BA", "Bahia");
-            estados.Add("CE", "Ceára");
-            estados.Add("AL", "Alagoas");
+            // estados.Add("PE", "Pernambuco");
+            // estados.Add("BA", "Bahia");
+            // estados.Add("CE", "Ceára");
+            // estados.Add("AL", "Alagoas");
 
-            foreach (KeyValuePair<string, string> item in estados)
-            {
-                System.Console.WriteLine($"Chave: {item.Key}, valor: {item.Value}");                
-            }
+            // foreach (KeyValuePair<string, string> item in estados)
+            // {
+            //     System.Console.WriteLine($"Chave: {item.Key}, valor: {item.Value}");                
+            // }
 
+            // LINQ - Language-Integrated Query
+            int[] arrayNumeros = new int[5] {1, 4, 8, 15, 19};
+
+            // var numerosParesQury = 
+            //     from num in arrayNumeros
+            //     where num % 2 == 0
+            //     ordemby num
+            //     select num;
+
+            var numerosParesMetodo = arrayNumeros.Where(x => x % 2 == 0).OrderBy(x => x).ToList();
+            
+
+            // System.Console.WriteLine("Numeros pares query : ".Join(", ", numerosParesQury));
+            System.Console.WriteLine("Numeros pares métodos: ".Join(", ", numerosParesMetodo));
         }
     }
 }
