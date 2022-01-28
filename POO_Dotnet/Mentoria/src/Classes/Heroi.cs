@@ -20,5 +20,11 @@ namespace Mentoria.src.Classes
         {
             return $"Nome: {this.nome}\nPontos de Magia: {this.PontosMagia}\nPontos de Vida: {this.PontosVidas}\nNível: {this.nivel}\nClasse Fantastica: {this.ClassesFantastica}";
         }
+
+        public string Atacar()
+        {
+            Random dados = new Random();
+            int forcaDoAtaque = this.nivel + dados.Next(1,20);
+        }
     }
 }
