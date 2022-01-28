@@ -1,0 +1,16 @@
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/bin/Debug/net5.0/Mentoria
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/bin/Debug/net5.0/Mentoria.deps.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/bin/Debug/net5.0/Mentoria.runtimeconfig.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/bin/Debug/net5.0/Mentoria.runtimeconfig.dev.json
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/bin/Debug/net5.0/Mentoria.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/bin/Debug/net5.0/ref/Mentoria.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/bin/Debug/net5.0/Mentoria.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/obj/Debug/net5.0/Mentoria.csproj.AssemblyReference.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/obj/Debug/net5.0/Mentoria.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/obj/Debug/net5.0/Mentoria.AssemblyInfoInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/obj/Debug/net5.0/Mentoria.AssemblyInfo.cs
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/obj/Debug/net5.0/Mentoria.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/obj/Debug/net5.0/Mentoria.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/obj/Debug/net5.0/ref/Mentoria.dll
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/obj/Debug/net5.0/Mentoria.pdb
+/home/lucas/Documentos/Github/DECOLA-TECH-2022/POO_Dotnet/Mentoria/obj/Debug/net5.0/Mentoria.genruntimeconfig.cache
