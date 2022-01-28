@@ -1,12 +1,15 @@
 ﻿using System;
-
+using Mentoria.src.Classes;
 namespace Mentoria
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // representar um heroi: nome, pontos de vida, ponto de magia e classe
+            Heroi arus = new Heroi();
+
+
         }
     }
 }
